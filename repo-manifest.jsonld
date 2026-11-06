@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/prettyspecialmethods/commit/38fb1b784aa4a636d670f098dc5a6abf2de18c94",
       "git:hexsha": "38fb1b784aa4a636d670f098dc5a6abf2de18c94",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/prettyspecialmethods/commit/341fd4b0f218ee8e5d49585c7f5eb472aa29745f",
